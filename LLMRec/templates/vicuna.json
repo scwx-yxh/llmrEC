@@ -1,0 +1,4 @@
+{
+    "prompt_input": "### USER:\n{instruction}\n",
+    "response_split": "\n### ASSISTANT:\n"
+}
